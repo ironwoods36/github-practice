@@ -1,0 +1,6 @@
+div {
+    height:100px;
+    column-count: 3;
+    column-fill: balance;
+    text-align: justify;
+}
