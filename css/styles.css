@@ -1,6 +1,22 @@
-div {
-    height:100px;
-    column-count: 3;
-    column-fill: balance;
-    text-align: justify;
-}
+ * {
+    box-sizing: border-box;
+ }
+ .column {
+    background-color: rgb(240, 7, 7);
+    float: left;
+    height: 100px;
+    width: 25%;
+    border: 5;
+ }
+ .clearfix{
+    clear: both;
+ }
+ .h2{
+   box-sizing: border-box;
+ }
+ .aside{
+   background-color: red;
+   border-color: black;
+ }
+ 
+ 
